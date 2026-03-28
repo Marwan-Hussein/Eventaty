@@ -10,9 +10,9 @@ Built with modern technologies, Forsa focuses on **performance, scalability, and
 
 Forsa provides a centralized system where:
 
-- 🧑‍💼 Organizers can create and manage events بسهولة
+- 🧑‍💼 Organizers can create and manage events easily
 - 🏢 Venue Owners can list and control their venues
-- 🎟️ Attendees can explore and book events بسهولة
+- 🎟️ Attendees can explore and book events easily
 
 ---
 
