@@ -1,2 +1,107 @@
-# Forsa
-Forsa is an Event Management Web application 
+# 🎯 Forsa – Event Management Web Application
+
+Forsa is a full-stack **web application** designed to simplify event management by connecting **Organizers**, **Venue Owners**, and **Attendees** in one unified platform.
+
+Built with modern technologies, Forsa focuses on **performance, scalability, and user experience**, enabling seamless event creation, booking, and management.
+
+---
+
+## 📌 Overview
+
+Forsa provides a centralized system where:
+
+- 🧑‍💼 Organizers can create and manage events بسهولة
+- 🏢 Venue Owners can list and control their venues
+- 🎟️ Attendees can explore and book events بسهولة
+
+---
+
+## 🚀 Features
+
+- 🔐 Authentication & Authorization (Role-Based)
+- 📅 Event Creation & Management
+- 🏢 Venue Listing & Booking System
+- 🎟️ Ticket Reservation
+- ⭐ Reviews & Ratings
+- 📊 Dashboard for Insights
+- 🌐 Fully Responsive Web UI
+
+---
+
+## 🧠 User Roles & Guarantees
+
+### 😶‍🌫️ Guest
+**Responsibilities:**
+- Browse availble events
+  
+---
+
+### 👤 Attendee
+**Responsibilities:**
+- Browse available events
+- Book tickets
+- Rate and review events
+
+**Guarantees:**
+- Easy and fast booking experience
+- Accurate and updated event information
+- Secure data handling
+
+---
+
+### 🧑‍💼 Organizer
+**Responsibilities:**
+- Create and manage events
+- Monitor bookings and attendees
+- Update event details
+
+**Guarantees:**
+- Efficient event management tools
+- Real-time updates
+- Reliable attendee tracking
+
+---
+
+### 🏢 Venue Owner
+**Responsibilities:**
+- List venues and availability
+- Handle booking requests
+- Manage schedules
+
+**Guarantees:**
+- Clear booking workflow
+- Optimized scheduling system
+- Increased exposure for venues
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology |
+|-------------|-----------|
+| Frontend    | React |
+| Backend     | .NET Web API |
+| Database    | SQL (Relational Database) |
+| Architecture| RESTful APIs |
+
+---
+
+
+---
+
+## 🤝 Contributions
+
+| Contributor | LinkedIn| What he does |
+|-------------|-------------|-------------|
+| 1. [Marwan Hussein](https://github.com/Marwan-Hussein) | [LinkedIn](https://linkedin.com/in/marwanhussein9) |  - Tas1<br>- Task2<br>- Task3<br>  |
+| 2. [Mariam Ehab](https://github.com/Marria-m) | [LinkedIn](https://www.linkedin.com/in/mariamehab1305) |  - Tas1<br>- Task2<br>- Task3<br>  |
+| 3. [Mohamed Kotb](https://github.com/kotbb) | [LinkedIn](https://www.linkedin.com/in/mohamedkotbb) |  - Tas1<br>- Task2<br>- Task3<br>  |
+| 4. [Mohamed Nagy](https://github.com/Nagy101) | [LinkedIn](https://www.linkedin.com/in/mohamed-nagy-36aa4b318 ) |  - Tas1<br>- Task2<br>- Task3<br>  |
+| 5. [Zeyad Azzap](https://github.com/user5) | [LinkedIn](https://www.linkedin.com/in/zeyad-azab) |  - Tas1<br>- Task2<br>- Task3<br>  |
+| 6. [Mazen Abdellatief](https://github.com/MazenAdelatee) | [LinkedIn](https://www.linkedin.com/in/mazen-abdellateef-3b37172b6) |  - Tas1<br>- Task2<br>- Task3<br>  |
+
+---
+
+##📜 License
+
+This project is licensed under the LGPL-2.1 License.
