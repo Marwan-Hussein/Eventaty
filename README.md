@@ -102,6 +102,6 @@ Forsa provides a centralized system where:
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is licensed under the LGPL-2.1 License.
